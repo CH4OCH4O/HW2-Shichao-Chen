@@ -1,7 +1,7 @@
 import os
 from google import genai
 
-# Prompt（后面 Step 5 会优化）
+
 PROMPT = """
 You are a helpful customer support assistant for an e-commerce company.
 
