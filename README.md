@@ -19,3 +19,9 @@ The system generates a professional email response as a first draft. The respons
 This task is valuable because customer support teams handle many repetitive messages every day. Writing replies can take a lot of time, especially when the issues are similar.
 
 A GenAI system can help generate a first draft quickly, so the support staff only needs to review and adjust it. This can improve efficiency and make responses more consistent. However, human review is still important, especially for sensitive or unclear cases.
+
+##YouTube Link
+https://youtu.be/DxD8BpLeL_4
+
+##Reminder
+When run app.py, please set ur api key first, then run app.py
